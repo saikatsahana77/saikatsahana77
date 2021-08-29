@@ -31,9 +31,22 @@
 </a>
 </div>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <div>
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 
 <p align="center">
