@@ -21,14 +21,20 @@
 
 <br/>
 
+
+<div>
 <a href="https://github.com/saikatsahana77">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatsahana77&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/saikatsahana77">
  <img align="right" height="230" src="https://github-readme-stats.vercel.app/api?username=saikatsahana77&theme=onedark" alt="saikat's github stats"/> 
 </a>
+</div>
 
+
+<div>
 <h3> 🤝🏻 Connect with Me </h3>
+
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/sahana_saikat" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -36,5 +42,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/saikat-sahana-454608118/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:saikatsahana91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+</div>
 
 ⭐️ From [saikatsahana77](https://github.com/saikatsahana77)
