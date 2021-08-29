@@ -44,7 +44,9 @@
 <br />
 <br />
 <br />
-
+<p align="center">
+<img src="https://github.com/saikatsahana77/saikatsahana77/blob/output/github-contribution-grid-snake.gif"/>
+</p>
 
 <div>
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
