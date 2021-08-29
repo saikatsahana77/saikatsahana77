@@ -27,7 +27,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatsahana77&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/saikatsahana77">
- <img align="right" height="230" src="https://github-readme-stats.vercel.app/api?username=saikatsahana77&theme=onedark" alt="saikat's github stats"/> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=saikatsahana77&theme=onedark" alt="saikat's github stats"/> 
 </a>
 </div>
 
