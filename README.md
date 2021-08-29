@@ -21,11 +21,11 @@
 
 <br/>
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatsahana77&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/saikatsahana77">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatsahana77&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikatsahana77_icons=true&theme=onedark&line_height=27" alt="Saikat's github stats"/>
+<a href="https://github.com/saikatsahana77">
+ <img align="right" height="230" src="https://github-readme-stats.vercel.app/api?username=saikatsahana77&theme=onedark" alt="saikat's github stats"/> 
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
