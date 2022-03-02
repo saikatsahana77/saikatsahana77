@@ -3,6 +3,9 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Web+Developer;I'm+a++Freelancer;I+am+a+Youtuber"/>
 </div>
 
+![Stalked by](https://komarev.com/ghpvc/?username=saikatsahana77&color=6c5eff)
+
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Android Development
